@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+X9258	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+getWiper	KEYWORD2
+setWiper	KEYWORD2
+getMemory	KEYWORD2
+setMemory	KEYWORD2
+xfrMemoryToWiper	KEYWORD2
+xfrWiperToMemory	KEYWORD2
+globalXfrMemoryToWiper	KEYWORD2
+globalXfrWiperToMemory	KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################

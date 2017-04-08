@@ -1,0 +1,19 @@
+{
+"name": "X9258",
+"frameworks": "Arduino",
+"keywords": "X9258, Potmeter, Potentiometer",
+"description": "Driver for the X9258 quad digital potentiometer",
+"url": "",
+"authors":
+[
+{
+        "name": "Hedde Bosman"
+},
+],
+"repository":
+{
+    "type": "git",
+    "url": ""
+}
+}
+
